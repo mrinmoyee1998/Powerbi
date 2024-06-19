@@ -19,4 +19,4 @@ I learned the following things in this project:
 8. Stakeholder Feedback Implementation
 9. Sales, Marketing, Finance & Supply Chain metrics
 
-Live dashboard link: https://app.powerbi.com/groups/e599b396-e630-4226-a40b-ad96f7c63218/reports/fd6e6589-bb6f-4e06-b453-d490c0050806/ReportSection7150192367c09a56c0a1?experience=power-bi
+Live dashboard link: https://app.powerbi.com/groups/me/reports/fd6e6589-bb6f-4e06-b453-d490c0050806/ReportSection78f4c37c0a130b87ad8c?experience=power-bi
